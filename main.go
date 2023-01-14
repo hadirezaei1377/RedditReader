@@ -31,6 +31,7 @@ func init() {
 
 func main() {
 
+	// print stories by function loadReddit
 	stories := loadReddit()
 	fmt.Printf("%v \n\n", stories)
 

@@ -1,0 +1,147 @@
+We have now run out of IPv4 addresses 
+ 	 https://www.ripe.net/publications/news/about-ripe-ncc-and-ripe/the-ripe-ncc-has-run-out-of-ipv4-addresses 
+
+The Most Popular Programming Languages (PYPL Popularity of Programming Language index) 2004 - 2019 
+ 	 https://www.youtube.com/watch?v=7EifKIFk60U&amp;feature=youtu.be 
+
+Windows Terminal Preview v0.7 Release | Windows Command Line 
+ 	 https://devblogs.microsoft.com/commandline/windows-terminal-preview-v0-7-release/ 
+
+What is Software Entropy And How To Manage It 
+ 	 https://thevaluable.dev/fighting-software-entropy/ 
+
+"Beating" C with 400 lines of unoptimized assembly 
+ 	 https://eli.thegreenplace.net/2019/beating-c-with-400-lines-of-unoptimized-assembly/ 
+
+In defense of 'flicks' (or how I learned to stop worrying and love 705600000) 
+ 	 https://mux.com/blog/in-defense-of-flicks-or-how-i-learned-to-stop-worrying-and-love-705600000/ 
+
+JSONCrush: Compress JSON into URI friendly strings with JSCrush 
+ 	 https://github.com/KilledByAPixel/JSONCrush 
+
+The Architecture of free open-source eCommerce Platform on .NET Core. Video from Microsoft Channel 9 
+ 	 https://www.youtube.com/watch?v=6gLbizzSA9o 
+
+No more google for console junkies 
+ 	 https://blind.guru/endofgoogle.html 
+
+Linux Kernel 5.2+ memory corruption bug 
+ 	 https://bugzilla.kernel.org/show_bug.cgi?id=205663 
+
+Teaching Yourself to Make Music Software: Steve Duda in Conversation | Loop 
+ 	 https://www.youtube.com/watch?v=Cp0rtLaXBio 
+
+Julia v1.3.0 released 
+ 	 https://github.com/JuliaLang/julia/releases/tag/v1.3.0 
+
+`if` and `match` in constants on nightly rust | Inside Rust Blog 
+ 	 https://blog.rust-lang.org/inside-rust/2019/11/25/const-if-match.html 
+
+Firebase authentication using phone number with Kotlin: Taking one step closer to know users. 
+ 	 https://link.medium.com/Klxt2R96U1 
+
+GitHub - leonlatsch/godaddy-dyndns: Python based GoDaddy dyndns script using only the GoDaddy api. 
+ 	 https://github.com/leonlatsch/godaddy-dyndns 
+
+I bet you M. C. Escher would have loved JavaScript. 
+ 	 https://twitter.com/jviide/status/1199256792691355649 
+
+I used DarkSky's weather API to display the real-world weather in Unity 
+ 	 https://v.redd.it/u4ap0j7dt4141 
+
+The Most Popular Database (TOPDB Index) 2004 - 2019 
+ 	 https://youtu.be/6DrTKf8Vwps 
+
+Still working on a browser for my OS. Here's me implementing basic &lt;form&gt; and &lt;input&gt; elements. 
+ 	 https://www.youtube.com/watch?v=NrOv5IFtIJo 
+
+Automatic versioning of Java applications using Git-Version Plugin 
+ 	 https://98elements.com/blog/automatic-versioning-of-java-applications-using-git-version-gradle-plugin/ 
+
+Building a language server for the Muon programming language 
+ 	 https://nickmqb.github.io/2019/11/24/building-a-language-server-for-muon.html 
+
+Lisp-Flavored Programming Languages 
+ 	 https://github.com/dundalek/awesome-lisp-languages 
+
+Stand The Test Of Time: An OkCupid Guide To Maintainable Unit Testing 
+ 	 https://tech.okcupid.com/guide-to-maintainable-unit-testing/ 
+
+How AI-Powered Tools Can Transform Software Development 
+ 	 https://medium.com/@michael.lyamm/can-ai-powered-tools-transform-software-development-fff502473e87 
+
+Conway's Game Of Life in APL 
+ 	 https://youtu.be/a9xAKttWgP4 
+
+Remote Desktop capability 
+ 	 https://www.reddit.com/r/it/comments/e20sm5/remote_desktop_capability/ 
+
+Animazione Sospesa: Paziente operato per la prima volta 
+ 	 https://www.universo7p.it/animazione-sospesa-paziente-operato-per-la-prima-volta/scienza/ 
+
+Pls help me!Is there any way to disable yahoo notifications?It stores so many sounds that i dont want. 
+ 	 https://i.redd.it/e7uk2onbsz041.jpg 
+
+Initializing a PCIE SSD as an external 
+ 	 https://www.reddit.com/r/it/comments/e1zg2n/initializing_a_pcie_ssd_as_an_external/ 
+
+راهنمای خرید سوئیچ های POE 
+ 	 https://mrshabake.com/poe-switch-purchase-guide/?utm_source=social&amp;utm_medium=post&amp;utm_campaign=mag%20mrshabake 
+
+Slow speed/lag on random websites 
+ 	 https://www.reddit.com/r/it/comments/e1hpq6/slow_speedlag_on_random_websites/ 
+
+I need Some IT help. 
+ 	 https://www.reddit.com/r/it/comments/e1cd46/i_need_some_it_help/ 
+
+Wireless network help 
+ 	 https://www.reddit.com/r/it/comments/e199mb/wireless_network_help/ 
+
+College got some new computers 
+ 	 https://www.reddit.com/r/it/comments/e0najy/college_got_some_new_computers/ 
+
+It 
+ 	 https://i.redd.it/pulq95jmnh041.jpg 
+
+Am I allowed to ask for help on this sub? 
+ 	 https://www.reddit.com/r/it/comments/e08eht/am_i_allowed_to_ask_for_help_on_this_sub/ 
+
+Need IT support, not sure where to look 
+ 	 https://www.reddit.com/r/it/comments/e03vj8/need_it_support_not_sure_where_to_look/ 
+
+HP Proliant DL 
+ 	 https://www.reddit.com/r/it/comments/e02nga/hp_proliant_dl/ 
+
+IT career 
+ 	 https://www.reddit.com/r/it/comments/dzofnd/it_career/ 
+
+Please help with EXCEL! information within rows of the same column as getting jumbled. 
+ 	 https://www.reddit.com/r/it/comments/dzswke/please_help_with_excel_information_within_rows_of/ 
+
+MS Office 
+ 	 https://www.reddit.com/r/it/comments/dzs31g/ms_office/ 
+
+Suggestion Config PC 4K double display €1k-1.5k 
+ 	 https://www.reddit.com/r/it/comments/dzr0fa/suggestion_config_pc_4k_double_display_1k15k/ 
+
+Re-domain a PC that's lost trust relationship 
+ 	 https://www.reddit.com/r/it/comments/dzjqt4/redomain_a_pc_thats_lost_trust_relationship/ 
+
+Healthcare IT Market Increased International Trade Opening New Opportunities 
+ 	 https://www.reddit.com/r/it/comments/dzgf20/healthcare_it_market_increased_international/ 
+
+Office says I'm trying to install 32-bit MS Project, but everything says I've downloaded the 64-bit program, what am I missing? 
+ 	 https://i.redd.it/wylt3zir61041.jpg 
+
+I’m looking for entry jobs under 18 
+ 	 https://www.reddit.com/r/it/comments/dzfddz/im_looking_for_entry_jobs_under_18/ 
+
+Career Help! 
+ 	 https://www.reddit.com/r/it/comments/dzape9/career_help/ 
+
+Should I stay or should I go? 
+ 	 https://www.reddit.com/r/it/comments/dz0r07/should_i_stay_or_should_i_go/ 
+
+Oh boy here we go again 
+ 	 https://i.redd.it/rvvli0rfmoz31.jpg 
+
